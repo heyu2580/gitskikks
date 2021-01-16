@@ -1,2 +1,4 @@
 # gitskikks
-Create a branch is quick & simple.
+<<<<<<< HEAD
+Create a new barnch is quick and simple.
+
